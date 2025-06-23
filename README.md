@@ -10,3 +10,21 @@ O objetivo deste projeto é apresentar conhecimentos e práticas relacionadas à
 - ## Sobre o autor
 - Leonardo Alves Martins Leandro  
 Estudante de Engenharia de Software – 2º período
+# Projeto de Segurança da Informação
+
+Olá, pessoal!
+
+Estou compartilhando meu portfólio pessoal criado como parte do projeto integrador do meu curso de Engenharia de Software (2º período). Aqui você encontra meus estudos e projetos sobre Segurança da Informação.
+
+Acesse o repositório no GitHub:  
+https://github.com/leonardomleandro/seguranca-da-informa-ao
+
+Este projeto mostra meu compromisso em aprender e aplicar conceitos essenciais de proteção de dados, análise de riscos e boas práticas de segurança cibernética.
+
+Fique à vontade para explorar, comentar e contribuir!
+
+Obrigado por acompanhar minha jornada! 🚀
+
+---
+
+**#SegurançaDaInformação #EngenhariaDeSoftware #GitHub #Portfólio #TI**

@@ -14,10 +14,9 @@ Estudante de Engenharia de Software – 2º período
 
 Olá, pessoal!
 
-Estou compartilhando meu portfólio pessoal criado como parte do projeto integrador do meu curso de Engenharia de Software (2º período). Aqui você encontra meus estudos e projetos sobre Segurança da Informação.
+Estou compartilhando meu portfólio pessoal criado como parte do projeto integrador do meu curso de Engenharia de Software (2º período). Aqui você encontra meus estudos e projetos sobre Segurança da Informaçao
+aqui está o projeto
 
-Acesse o repositório no GitHub:  
-https://github.com/leonardomleandro/seguranca-da-informa-ao
 
 Este projeto mostra meu compromisso em aprender e aplicar conceitos essenciais de proteção de dados, análise de riscos e boas práticas de segurança cibernética.
 
